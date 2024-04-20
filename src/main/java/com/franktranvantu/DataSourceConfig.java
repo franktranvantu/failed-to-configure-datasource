@@ -1,4 +1,4 @@
-package com.franktranvantu.mavendemo;
+package com.franktranvantu;
 
 import org.springframework.boot.jdbc.DataSourceBuilder;
 import org.springframework.context.annotation.Bean;
